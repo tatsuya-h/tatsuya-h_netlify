@@ -11,7 +11,7 @@ theme = "hugo-artists-theme"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Your name"
+	name = "Tatsuya Hasegawa"
 	description = "Your description"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
@@ -25,7 +25,7 @@ theme = "hugo-artists-theme"
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-	email = "your@email.com"
+	email = "hasekyo0324@gmail.com"
 
 
 	# Header an navigation
@@ -34,8 +34,8 @@ theme = "hugo-artists-theme"
 	# Do the same with the logo ('logo.svg').
 	# But keep the original filename!
 	[params.header]
-		title = "Artists Theme"
-		shortBio = "Thinker // Designer // YouTuber"
+		title = "My Portfolio"
+		shortBio = "Effects Artist // Technichal Artist"
 
 
 	# About section
