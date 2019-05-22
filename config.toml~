@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://tatsuya-h.netlify.com/"
-languageCode = "ja"
-title = "tatsuya-h"
+baseurl = "https://example.org/"
+languageCode = "en-us"
+title = "Hugo Artists Theme"
 theme = "hugo-artists-theme"
 
 [params]
@@ -108,8 +108,8 @@ theme = "hugo-artists-theme"
 	[params.form]
 		title = "Let's work together"
 		# Form fields
-		name = "Tatsuya Hasegawa"
-		email = "hasekyo0324@gmail.com"
+		name = "Your Name"
+		email = "Your Email"
 		message = "Tell me about your project"
 		buttonText = "Send"
 
