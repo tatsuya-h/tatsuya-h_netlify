@@ -1,3 +1,5 @@
 /pubric
+.*.un~
+.*~
 config.toml~
 .config.toml.un~
